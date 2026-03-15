@@ -66,7 +66,7 @@ MongoDB Atlas Account (or local MongoDB)
 1. Clone the Repository
 bash
 
-git clone https://github.com/your-username/task-manager-mern.git
+git clone https://github.com/beautymaji/task-manager-mern
 cd task-manager-mern
 2. Setup Backend (Server)
 bash
