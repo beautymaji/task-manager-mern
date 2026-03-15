@@ -4,9 +4,9 @@ A secure, production-ready Task Management application built with the MERN Stack
 MongoDBExpressReactNode
 
 📍 Live Demo & Repository
-🌐 Live Application: [Replace with your Vercel URL]
-💻 GitHub Repository: [Replace with your GitHub URL]
-📡 API Endpoint: [Replace with your Render URL]
+🌐 Live Application: [http://localhost:5173]
+💻 GitHub Repository: [https://github.com/beautymaji/task-manager-mern]
+
 📸 Application Preview
 Login Page	Dashboard
 Vibrant gradient design with glassmorphism.	Manage tasks with search, filter, and pagination.
